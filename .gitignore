@@ -47,3 +47,15 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# R Environment Variables
+.Renviron
+
+# Figure repository
+Figures/
+
+# Results repository
+Results/
+
+# Data repository
+Data/
